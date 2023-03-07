@@ -1,4 +1,4 @@
-# Generator haseł
+# Generator haseł - Python
 
 Jest to prosta aplikacja generowanie haseł na podstawie danych przekazanych przez użytkownika. 
 
