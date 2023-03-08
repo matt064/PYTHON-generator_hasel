@@ -8,7 +8,7 @@ Jest to prosta aplikacja generowanie haseł na podstawie danych przekazanych prz
 
 1. Kopiujemy repozytorium:
     ```
-    git clone https://github.com/matt064/quiz_pyqt5.git
+    git clone https://github.com/matt064/generator_hasel.git
     ```
 
 2. Aplikacja nie wymaga instalacji dodatkowych pakietów.
